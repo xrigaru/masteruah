@@ -30,7 +30,7 @@ Tiene como objetivo ayudarte a ponerse al día o adquirir las competencias bási
 |Henry Daniel Remache Tanquino |Hendare|https://github.com/Hendare/masteruah|
 |Onur Satka Irieva |Onurse|https://github.com/Onurse/masteruah|
 |David Pallarés Pontnou |pontnou|https://github.com/pontnou/masteruah|
-|Rafael Calvo Tello |rctguli|https://github.com/rctguli/masteruah|
+
 
 ## Miembros del equipo
 
